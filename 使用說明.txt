@@ -1,0 +1,8 @@
+《憲法小達人：知識冒險島》官方旗徽本地圖片＋離線快取版
+
+已包含：index.html、sw.js、images/national-flag.png、images/national-emblem.png、images/hk-flag.gif、images/hk-emblem.gif。
+四張圖片由使用者提供，沒有重新繪製。
+
+GitHub 操作：將 index.html、sw.js、images 資料夾及四張圖片上載至 Repository 根目錄。保留 images 資料夾及檔名。
+首次使用須連線開啟 GitHub Pages，等待載入完成，重新整理一次，再開啟飛行模式測試。Service Worker 只能快取成功取得的頁面及圖片；若瀏覽器清除網站資料或未成功安裝，離線仍可能失效。
+若曾安裝舊版，更新後請連線重新整理，讓新版離線快取生效。
